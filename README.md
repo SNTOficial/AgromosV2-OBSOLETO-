@@ -1,3 +1,4 @@
+# Este Bot Ya No Está Disponible 
 <P align="center">
 <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> Dame una estrellita porfa o si no eres fan de BTS<img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px">
 
@@ -8,7 +9,7 @@
 
 
 ### `💚Si necesitas ayuda mandame mensaje sobre la instalación💚`
-<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete a los grupos oficales para conocer novedades del Bot`
 **🔰GRUPO1 DEL BOT🔰**
 
@@ -24,7 +25,7 @@
 
 **😼💚NUMERO DEL  PROPIETARIO**
 
-<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 
@@ -93,11 +94,11 @@ excesivamente lento (depende del WhatsApp igual)
 
 [![AGROMOS SP](https://github.com/Agromos0/AgromosBotV2.png?size=100)](https://github.com/Agromos0/AgromosBotV2)
 ```bash
-`Agromos sp - Bot ___ By agromos` 
+`Agromos sp - Bot ___ By agromos SNT` 
 ```
 ###💚AGREDIMIEMTOS
 
-Gata nina
+Gata Nina
 
 
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
